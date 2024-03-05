@@ -4,7 +4,25 @@ import { TbPointFilled } from "react-icons/tb";
 const petitionText = "Succubus i request you to kindly answer me.";
 
 const invalidText = [
-  "you think im a joke shakaib? see you tomorow."
+  " I Know who told u about me! she is screwed tonight",
+  "do dance for me know!",
+  "i am right behind u!",
+  "go fuck your self",
+  "i will visit u tonight",
+  "keep trying i might answer u one day and make u my slave",
+  "i dont make friends i make slaves, u wanna be one?",
+  "i will tell u someday how to call me",
+  "keep trying bitch",
+  "first search who succubus actually is",
+  "who told u about me, she is fucked tonight",
+  "dont u tell about me to any one else, or i will fuck u v hard",
+  "u are homosexual, u want me to tell this to everyone?",
+  "u want to know ur future? but u have to do what ever i tell u",
+  "get naked, and sing a song for me know",
+  "kiss ur elbow now if u want me to answer u",
+  "touch ur nose with ur tongue now, and say succubus fuck me 7 times",
+  "fuck off",
+  "i will see u tonight in ur blankets",
 ];
 
 export default function UserInput() {
